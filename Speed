@@ -893,5 +893,5 @@ RevizV2.MouseButton1Click:connect(function()
 end)
 
 TeletoVoid.MouseButton1Click:connect(function()
-	game:GetService("TeleportService"):Teleport(2021740958, game.Players.LocalPlayer)
+	game:GetService("TeleportService"):Teleport(5900986119, game.Players.LocalPlayer)
 end)
